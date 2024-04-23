@@ -7,6 +7,10 @@ Original file is located at
     https://colab.research.google.com/drive/1ZXmHw3SLpGwWtP68Nv4-VuVLiEJew3dV
 """
 
+pip install pycaret
+
+pip install streamlit
+
 import streamlit as st
 import pandas as pd
 from pycaret.classification import *
